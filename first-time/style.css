@@ -1,0 +1,9 @@
+#root {
+    font-size: 2em;
+}
+
+.clock {
+    background: lightblue;
+    color: white;
+    width: 275px;
+}
